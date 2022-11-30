@@ -1,0 +1,15 @@
+C:\repos\pigdice\obj\Debug\net6.0\pigdice.csproj.AssemblyReference.cache
+C:\repos\pigdice\obj\Debug\net6.0\pigdice.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\pigdice\obj\Debug\net6.0\pigdice.AssemblyInfoInputs.cache
+C:\repos\pigdice\obj\Debug\net6.0\pigdice.AssemblyInfo.cs
+C:\repos\pigdice\obj\Debug\net6.0\pigdice.csproj.CoreCompileInputs.cache
+C:\repos\pigdice\bin\Debug\net6.0\pigdice.exe
+C:\repos\pigdice\bin\Debug\net6.0\pigdice.deps.json
+C:\repos\pigdice\bin\Debug\net6.0\pigdice.runtimeconfig.json
+C:\repos\pigdice\bin\Debug\net6.0\pigdice.dll
+C:\repos\pigdice\bin\Debug\net6.0\pigdice.pdb
+C:\repos\pigdice\obj\Debug\net6.0\pigdice.dll
+C:\repos\pigdice\obj\Debug\net6.0\refint\pigdice.dll
+C:\repos\pigdice\obj\Debug\net6.0\pigdice.pdb
+C:\repos\pigdice\obj\Debug\net6.0\pigdice.genruntimeconfig.cache
+C:\repos\pigdice\obj\Debug\net6.0\ref\pigdice.dll
